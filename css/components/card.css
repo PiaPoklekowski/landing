@@ -1,0 +1,20 @@
+.card img {
+  height: 100px;
+}
+
+.card {
+  width: 200px;
+  border-radius: 5px;
+  box-shadow: 4px 4px 20px rgb(183 106 130);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+}
+
+.card h3 {
+  font-size: 16px;
+}
+
+.card p {
+  font-size: 13px;
+}
